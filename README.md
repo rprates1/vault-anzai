@@ -97,3 +97,5 @@ vault-anzai/
 - ❌ Bordões inventados: "Bora!", "Anota aí:", "Pode confiar." (não eram da v3.2)
 - ❌ "Tem sim, chefe" (forçado)
 - ❌ Vocabulário fictício
+
+<!-- teste webhook -->
