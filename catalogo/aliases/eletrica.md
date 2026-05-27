@@ -6,33 +6,34 @@ company_id: 24710665-1440-4ec1-9e33-560dfdf35490
 
 # Aliases — Elétrica
 
-## cabo
+## cabo (elétrico)
 
 ```yaml
 alias: cabo
-display: cabo (elétrico)
+display: cabo elétrico
 must_have:
   - cabo
 must_not_have:
-  - cabo de aco
-  - cabo aco
-  - cabo dental
+  - "cabo de aco"
+  - "cabo aco"
+  - dental
   - vassoura
+  - "cabo de panela"
 peso: 1.0
 observacao: cabo elétrico; exclui cabo de aço, cabo dental, cabo de vassoura
 ```
 
-## fio
+## fio (elétrico)
 
 ```yaml
 alias: fio
-display: fio (elétrico)
+display: fio elétrico
 must_have:
   - fio
 must_not_have:
-  - fio dental
-  - fio de cabelo
-  - fio cirurgico
+  - "fio dental"
+  - "fio de cabelo"
+  - "fio cirurgico"
 peso: 1.0
 observacao: fio elétrico; exclui fios não-elétricos
 ```
@@ -105,7 +106,7 @@ must_not_have: []
 peso: 1.0
 ```
 
-## led
+## LED
 
 ```yaml
 alias: led
@@ -127,7 +128,7 @@ must_not_have: []
 peso: 1.0
 ```
 
-## quadro
+## quadro elétrico
 
 ```yaml
 alias: quadro
@@ -135,9 +136,10 @@ display: quadro de distribuição
 must_have:
   - quadro
 must_not_have:
-  - de aviso
+  - "de aviso"
   - escolar
   - quadrinho
+  - decorativ
 peso: 1.0
 observacao: quadro elétrico; exclui quadro decorativo/escolar
 ```
