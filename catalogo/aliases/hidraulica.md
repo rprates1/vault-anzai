@@ -17,16 +17,15 @@ must_not_have: []
 peso: 1.0
 ```
 
-## cano
+## cano (sinônimo popular de tubo)
 
 ```yaml
 alias: cano
 display: cano (tubo)
 must_have:
-  - cano
+  - "(cano|tubo)"
 must_not_have: []
 peso: 1.0
-observacao: linguagem popular pra tubo
 ```
 
 ## torneira
@@ -51,11 +50,11 @@ must_not_have: []
 peso: 1.0
 ```
 
-## registro
+## registro (hidráulico)
 
 ```yaml
 alias: registro
-display: registro (hidráulico)
+display: registro hidráulico
 must_have:
   - registro
 must_not_have:
@@ -66,11 +65,11 @@ peso: 1.0
 observacao: registro hidráulico; exclui registro civil/RG
 ```
 
-## joelho
+## joelho (conexão)
 
 ```yaml
 alias: joelho
-display: joelho (conexão)
+display: joelho hidráulico
 must_have:
   - joelho
 must_not_have:
@@ -80,23 +79,24 @@ peso: 1.0
 observacao: conexão hidráulica; exclui joelheira ortopédica
 ```
 
-## luva
+## luva (conexão)
 
 ```yaml
 alias: luva
-display: luva (conexão)
+display: luva hidráulica
 must_have:
   - luva
 must_not_have:
   - procedimento
   - nitrilica
-  - latex descart
+  - "latex descart"
   - cirurgica
+  - epi
 peso: 1.0
 observacao: conexão hidráulica; exclui luva EPI/descartável
 ```
 
-## cola pvc
+## cola PVC
 
 ```yaml
 alias: cola pvc
@@ -115,7 +115,7 @@ alias: caixa dagua
 display: caixa d'água
 must_have:
   - caixa
-  - agua
+  - "(agua|d'agua|dagua)"
 must_not_have: []
 peso: 1.0
 ```
