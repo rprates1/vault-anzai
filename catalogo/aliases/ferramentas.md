@@ -17,7 +17,7 @@ must_not_have: []
 peso: 1.0
 ```
 
-## chave
+## chave (ferramenta)
 
 ```yaml
 alias: chave
@@ -27,7 +27,7 @@ must_have:
 must_not_have:
   - chaveiro
   - chaveirinho
-  - chave de carro
+  - "chave de carro"
 peso: 1.0
 ```
 
@@ -52,7 +52,6 @@ must_have:
 must_not_have:
   - cerca
   - cerro
-  - sera
 peso: 1.0
 observacao: ferramenta de corte; exclui erros de digitação tipo cerca/cerro
 ```
