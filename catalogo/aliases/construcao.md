@@ -2,19 +2,17 @@
 tipo: alias_collection
 categoria: construcao
 company_id: 24710665-1440-4ec1-9e33-560dfdf35490
-versao: 1
 ---
 
 # Aliases — Construção
 
-Cada bloco abaixo define como o sistema entende um termo. O `must_have` são palavras que DEVEM estar na descrição do produto. O `must_not_have` são as que NÃO podem estar (proteção contra erro).
-
-## cimento
+## cimento (genérico)
 
 ```yaml
 alias: cimento
-display: cimento
-must_have: []
+display: cimento estrutural
+must_have:
+  - cimento
 must_not_have:
   - queimado
   - cola
@@ -22,9 +20,12 @@ must_not_have:
   - ac-1
   - ac-2
   - ac-3
+  - ac1
+  - ac2
+  - ac3
   - refratario
 peso: 1.0
-observacao: cimento estrutural; exclui cimento queimado (acabamento) e cimento cola
+observacao: cimento estrutural; exclui cimento queimado, cola, refratário
 ```
 
 ## cimento queimado
@@ -33,6 +34,7 @@ observacao: cimento estrutural; exclui cimento queimado (acabamento) e cimento c
 alias: cimento queimado
 display: cimento queimado
 must_have:
+  - cimento
   - queimado
 must_not_have: []
 peso: 1.0
@@ -56,6 +58,7 @@ peso: 1.0
 alias: cimento branco
 display: cimento branco
 must_have:
+  - cimento
   - branco
 must_not_have: []
 peso: 1.0
@@ -118,16 +121,16 @@ must_not_have: []
 peso: 1.0
 ```
 
-## pedra
+## pedra (construção)
 
 ```yaml
 alias: pedra
-display: pedra
+display: pedra de construção
 must_have:
   - pedra
 must_not_have:
   - sabao
-  - sabao em pedra
+  - "sabao em pedra"
 peso: 1.0
 observacao: pedra de construção; exclui sabão em pedra
 ```
