@@ -1,7 +1,7 @@
 ---
 tipo: proposta_pendente
 id: prop_002_telha_fluxo
-status: pendente
+status: rejeitado
 criada_em: "2026-05-25T16:40:00"
 categoria: fluxo
 arquivo_alvo: agente/instrucoes_gerais.md
@@ -27,6 +27,7 @@ correcoes_exemplos:
     ia_sugeriu: "Tem, qual quantidade?"
     operador_enviou: "Tem sim. Pra cobrir quantos metros? Ai ja te passo a quantidade certa."
     ts: "2026-05-25T10:30:00"
+motivo: "TESTE"
 ---
 
 # Perguntar metragem do telhado antes de oferecer telha
