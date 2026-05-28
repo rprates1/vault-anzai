@@ -8,6 +8,7 @@ triggers:
   - prazo entrega
   - que dia vocês entregam
   - vocês entregam quando
+  - qual horario de funcionamento
 ---
 
 # FAQ: horário e prazo de entrega
@@ -23,3 +24,12 @@ triggers:
 
 - Sempre escalar pra logística confirmar prazo
 - Geralmente 1-2 dias úteis
+
+# Horário de Atendimento
+
+**Segunda a sexta:** 7h às 18h
+
+**Sábado:** 7h às 12h
+
+**Domingo:** fechado
+
