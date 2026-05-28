@@ -14,7 +14,7 @@ canal_principal: whatsapp
 
 # Casa Anzai
 
-**Loja de materiais de construção em Votuporanga/SP**, com seções de hidráulica, elétrica, ferramentas, agropecuária, veterinária e pet shop.
+**Loja de materiais de construção em Votuporanga/SP**, com seções de hidráulica, elétrica, agropecuária, ferramentas, veterinária e pet shop.
 
 ## Resumo do negócio
 
