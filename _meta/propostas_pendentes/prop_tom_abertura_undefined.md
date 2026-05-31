@@ -1,7 +1,7 @@
 ---
 tipo: "proposta_pendente"
 id: "prop_tom_abertura_undefined"
-status: "pendente"
+status: rejeitado
 criada_em: "2026-05-31T02:38:29.772Z"
 atualizada_em: "2026-05-31T02:38:29.772Z"
 categoria: "tom"
@@ -32,6 +32,7 @@ A gente trabalha com materiais de construção, hidráulica, elétrica, ferramen
     ts: "2026-05-30T20:46:51.937Z"
     evento: "editar"
     conversa_id: "c788ff6b-dbf1-4bdd-b903-c53eaf5607ef"
+motivo: "TESTE"
 ---
 
 # Retirar 'Pô' e evitar 'KKK' na abertura
