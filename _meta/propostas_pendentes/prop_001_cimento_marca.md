@@ -1,7 +1,7 @@
 ---
 tipo: proposta_pendente
 id: prop_001_cimento_marca
-status: pendente
+status: aprovado
 criada_em: "2026-05-24T15:10:00"
 categoria: marca
 arquivo_alvo: catalogo/recomendacoes/construcao.md
