@@ -1,7 +1,7 @@
 ---
 tipo: proposta_pendente
 id: prop_003_abertura_tom
-status: pendente
+status: rejeitado
 criada_em: "2026-05-27T14:00:00"
 categoria: tom
 arquivo_alvo: agente/personalidade.md
@@ -33,6 +33,7 @@ correcoes_exemplos:
     ia_sugeriu: "Beleza! Que bitola?"
     operador_enviou: "Boa! Que bitola e pra que vai usar?"
     ts: "2026-05-27T13:45:00"
+motivo: "Não é boa mudança"
 ---
 
 # Substituir "Beleza!" por "Boa!" nas aberturas
