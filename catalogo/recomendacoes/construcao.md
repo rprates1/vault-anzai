@@ -26,7 +26,7 @@ produto: cimento
 
 recomendacao_padrao:
 
-  marca: Votorantim
+  marca: Tupi
 
   modelo: CPII-Z 40kg
 
