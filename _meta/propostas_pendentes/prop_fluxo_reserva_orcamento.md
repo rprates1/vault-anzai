@@ -1,7 +1,7 @@
 ---
 tipo: "proposta_pendente"
 id: "prop_fluxo_reserva_orcamento"
-status: "pendente"
+status: rejeitado
 criada_em: "2026-05-31T02:38:44.420Z"
 atualizada_em: "2026-05-31T02:38:44.420Z"
 categoria: "fluxo"
