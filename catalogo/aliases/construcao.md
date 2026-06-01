@@ -9,23 +9,11 @@ company_id: 24710665-1440-4ec1-9e33-560dfdf35490
 ## cimento (genérico)
 
 ```yaml
-alias: cimento
-display: cimento estrutural
-must_have:
-  - cimento
-must_not_have:
-  - queimado
-  - cola
-  - branco fachada
-  - ac-1
-  - ac-2
-  - ac-3
-  - ac1
-  - ac2
-  - ac3
-  - refratario
-peso: 1.0
-observacao: cimento estrutural; exclui cimento queimado, cola, refratário
+aliases:
+  - termo: CIMENTO
+    mostrar_como: "CIMENTO "
+    nao_pode_conter:
+      - CIMENTO QUEIMADO
 ```
 
 ## cimento queimado
