@@ -14,6 +14,7 @@ aliases:
     mostrar_como: "CIMENTO "
     nao_pode_conter:
       - CIMENTO QUEIMADO
+      - cor cimento
 ```
 
 ## cimento queimado
