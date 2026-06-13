@@ -1,7 +1,7 @@
 ---
 tipo: "proposta_pendente"
 id: "prop_fato_pet_nao_vendido"
-status: "pendente"
+status: rejeitado
 criada_em: "2026-06-11T00:55:15.935Z"
 atualizada_em: "2026-06-11T00:55:15.935Z"
 categoria: "fato"
