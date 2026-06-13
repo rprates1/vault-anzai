@@ -1,7 +1,7 @@
 ---
 tipo: "proposta_pendente"
 id: "prop_fluxo_arandela_ofertas"
-status: "pendente"
+status: rejeitado
 criada_em: "2026-06-11T00:57:51.328Z"
 atualizada_em: "2026-06-11T00:57:51.328Z"
 categoria: "fluxo"
@@ -53,6 +53,7 @@ Quer que eu reserve pra você ou mando mais opções?"
     ts: "2026-06-10T15:20:51.319Z"
     evento: "recusar"
     conversa_id: "89374ac7-4f4d-44e7-8970-32530486e57b"
+motivo: "ofertou arandela diferente da da foto"
 ---
 
 # Não enviar lista de arandelas com pergunta de reserva
