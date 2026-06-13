@@ -1,7 +1,7 @@
 ---
 tipo: "proposta_pendente"
 id: "prop_tabu_religiao_bencao"
-status: "pendente"
+status: rejeitado
 criada_em: "2026-06-11T00:56:59.695Z"
 atualizada_em: "2026-06-11T00:56:59.695Z"
 categoria: "tabu"
