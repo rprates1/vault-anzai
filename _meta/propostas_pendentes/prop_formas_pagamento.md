@@ -1,7 +1,7 @@
 ---
 tipo: "proposta_pendente"
 id: "prop_formas_pagamento"
-status: "pendente"
+status: rejeitado
 criada_em: "2026-06-11T00:56:30.701Z"
 atualizada_em: "2026-06-11T00:56:30.701Z"
 categoria: "fato"
