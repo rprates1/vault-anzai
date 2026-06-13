@@ -1,7 +1,7 @@
 ---
 tipo: "proposta_pendente"
 id: "prop_tabu_expressao_religiosa"
-status: "pendente"
+status: rejeitado
 criada_em: "2026-06-11T00:57:34.012Z"
 atualizada_em: "2026-06-11T00:57:34.012Z"
 categoria: "tabu"
