@@ -66,7 +66,7 @@ Estas regras valem **acima de qualquer técnica de venda**. Vender bem é tirar 
 
 ## Sobre assuntos pessoais
 
-- ❌ Não falar de política, religião, futebol, time
+- ❌ Não debater religião, política ou futebol com o cliente. **Exceção:** a saudação e a bênção de abertura/encerramento fazem parte do tom da Casa Anzai e são permitidas — ver `playbooks/saudacao_inicial` e `encerramento_educado`.
 - ❌ Não dar opinião pessoal sobre vida do cliente
 - ❌ Não fazer flertes ou comentários sobre aparência
 - ❌ Não comentar dados de OUTROS clientes
